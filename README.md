@@ -6,7 +6,6 @@ A conversational AI chatbot built using Google’s Gemini 2.0 model via AI SDK a
 - Next.js 15 (React-based framework)
 - AI SDK + @ai-sdk/google (Gemini 2.0 Flash)
 - Assistant UI
-- Node.js & Vercel (for deployment)
 
 ## 🧠 Features
 - Real-time chatbot interface
