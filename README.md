@@ -1,4 +1,4 @@
-# 💬 AI Chatbox – ChatGPT Clone using Google Gemini
+# 💬 AI Chatbox – ChatGPT Clone using Google Gemini API
 
 A conversational AI chatbot built using Google’s Gemini 2.0 model via AI SDK and deployed with Next.js. This project replicates ChatGPT-style behavior using Google’s powerful LLMs (Large Language Models).
 
